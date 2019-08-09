@@ -26,4 +26,4 @@
 
 /logs/*
 /tokens/*
-!/credentials.json
+/credentials.json
